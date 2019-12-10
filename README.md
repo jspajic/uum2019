@@ -1,5 +1,5 @@
-# Readme made just for
-[BrziHR](https://github.com/brzihr)
+# Welcome!
+Readme made just for [BrziHR](https://github.com/brzihr)
 
 
 ## Authors
